@@ -1,0 +1,19 @@
+.basic {
+    background-color: rgb(219, 148, 180);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.fancy {
+    font-size: 24px;
+}
+
+#special1 {
+    font-size:36px;
+    color:blue;
+}
+
+#special2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
